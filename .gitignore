@@ -1,0 +1,15 @@
+*.aux
+*.listing
+*.log
+*.bbl
+*.blg
+*.out
+*.out
+*.synctex.gz 
+*.thm 
+tmp_*
+.DS_Store
+*.DS_Store
+.dropbox
+*Icon*
+FiguresandResults*
